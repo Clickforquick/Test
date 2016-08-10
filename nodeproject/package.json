@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-      "dependencies": {
-        "express": "~4.2.x",
-        "underscore":"~1.7.0",
-        "mongoose":"*"
-    },
-  "author": "madhav",
+  "dependencies": {
+    "express": "~4.2.x",
+    "underscore": "~1.7.0",
+    "mongoose": "*"
+  },
+  "author": "clickforquick",
   "license": "ISC"
 }
